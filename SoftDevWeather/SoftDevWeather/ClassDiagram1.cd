@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SoftDevWeather.Models.WeatherMainModel">
+    <Position X="17.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAABAEAAAAAAAAAAAABAQ=</HashCode>
+      <FileName>Models\WeatherMainModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftDevWeather.Models.WeatherSubDetails">
+    <Position X="8.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Models\WeatherMainModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftDevWeather.Models.WeatherSysDetails">
+    <Position X="15.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\WeatherMainModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftDevWeather.Models.WeatherTempDetails">
+    <Position X="20.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\WeatherMainModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftDevWeather.Models.WeatherWindDetails">
+    <Position X="13" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\WeatherMainModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftDevWeather.ServicesHandler.WeatherServices">
+    <Position X="3" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ServicesHandler\WeatherServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftDevWeather.ViewModels.WeatherViewModel" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAICAAAAAAAAAAIIACAAARggAAAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>ViewModels\WeatherViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SoftDevWeather.MainPage">
+    <Position X="8.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftDevWeather.App">
+    <Position X="5.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftDevWeather.WeatherRestClient.OpenWeatherMap&lt;T&gt;">
+    <Position X="10.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAABAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WeatherRestClient\OpenWeatherMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Xamarin.Forms.Application" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Xamarin.Forms.ContentPage" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>
